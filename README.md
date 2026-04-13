@@ -21,7 +21,7 @@
 
     <main>
         <section class="hero">
-            <h1>Bienvenue sur mon site</h1>
+            <h1>BAAAAAAAA</h1>
             <p>Ceci est un exemple de site simple créé avec HTML et CSS.</p>
             <button class="btn-main">Découvrir</button>
         </section>
